@@ -4,5 +4,5 @@
   <p><strong> Nim : 215 280 014</strong></p>
   <p><strong>phone : 082 333 *** ***</strong></p>
   <p><strong>fax : auliyahamin@gmail.com</strong></p>
-  <p><strong>\Sulawesi Selatan</strong></p>
+  <p><strong>Sulawesi Selatan</strong></p>
  </table>
